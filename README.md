@@ -1,6 +1,6 @@
-👋 Hi, I’m @JamesRobertWiseman, a web developer from Cape Town, South Africa. 🇿🇦
+👋 Hi, I’m @JamesRobertWiseman, a solution architect from Cape Town, South Africa. 🇿🇦
 
-📫 You can reach me at hello@jameswiseman.me or visit my website @ https://www.jameswiseman.me/
+📫 You can reach me at hello@jameswiseman.me
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-wiseman-765214167/) [![Twitter](https://img.shields.io/badge/Twitter-%2300ACEE.svg?logo=twitter&logoColor=white)](https://twitter.com/JamesRobertWis1)
